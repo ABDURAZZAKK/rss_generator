@@ -1,0 +1,4 @@
+venv
+rss
+*.html
+__pycache__
